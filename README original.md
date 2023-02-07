@@ -22,6 +22,8 @@ Body
 			types - each of the 4 types		-- can this be pulled by data set
 			stages and what happens in each stage	-- what the researches measure, cognitive decline @ time points
     *Handled by Megan, shared if topic 4 leads to adequate data		
+    
+    QUESTION1: How much time does Alzheimers last progression wise?
 					
 	Topic 2	Population affected			
 			locations/groups - global perspective	-- new cases per year by country	
@@ -29,12 +31,18 @@ Body
 			habits/ "nature vs nuture" - environment ---scratch		
 			genetic conditions	---scratch		
     *Handled by Jason/William
+    
+    QUESTION2: Alzheimer's compared with different countries. Which countries have a prevalence in Alzheimers?
+    
+    QUESTION3: Which are the top 5 causes of Alzheimers? Data comparison btw different causes of ALzheimers.
 
 	Topic 3	Treatments 			
 			Conventional/western medicines	-- look at all treatments and analysis is selecting the top 5	
 			effectiveness of 2 treatments		
 	*Handled by June				
-					
+	
+    QUESTION4: What are the top 5 used treatment for Alzheimers? Compare which of the 5 treatments have most improved patient outcome.
+	
 	Topic 4	Treatments 			
 			holistic/natural medicines		-- look at all treatments and analysis is selecting the top 5	
 			proven techniques to help/work		
