@@ -19,24 +19,24 @@ Intro 	What is Alzheimers?
 Body		
 		
 	Topic 1	Progression			
-			types - each of the 4 types		
-			stages and what happens in each stage	
+			types - each of the 4 types		-- can this be pulled by data set
+			stages and what happens in each stage	-- what the researches measure, cognitive decline @ time points
     *Handled by Megan, shared if topic 4 leads to adequate data		
 					
 	Topic 2	Population affected			
-			locations/groups - global perspective		
-			can add detail for age/sex/etc		
-			habits/ "nature vs nuture" - environment		
-			genetic conditions		
+			locations/groups - global perspective	-- new cases per year by country	
+			can add detail for age/sex/etc		-- age sex of pop affected
+			habits/ "nature vs nuture" - environment ---scratch		
+			genetic conditions	---scratch		
     *Handled by Jason/William
 
 	Topic 3	Treatments 			
-			Conventional/western medicines		
+			Conventional/western medicines	-- look at all treatments and analysis is selecting the top 5	
 			effectiveness of 2 treatments		
 	*Handled by June				
 					
 	Topic 4	Treatments 			
-			holistic/natural medicines		
+			holistic/natural medicines		-- look at all treatments and analysis is selecting the top 5	
 			proven techniques to help/work		
 	*Handled by Megan - pending sorting through data collected
 
