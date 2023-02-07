@@ -42,10 +42,6 @@ Body
 					
 	
 
-
-
-	add more causation
-
 Datasets:	
 
 Lecanemab drug info 	https://open.fda.gov/apis/drug/			
