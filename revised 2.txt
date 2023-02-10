@@ -19,4 +19,10 @@ https://www.census.gov/data/developers/data-sets.html
 with Key: 9ff5c2355bb6e460d12de1feeff1968b00c71562
 
 
+New questions:
+
+1. What is the correlation between population growth and poverty rate?
+
+2. What is the correlation between GDP growth and population growth?
+
 
