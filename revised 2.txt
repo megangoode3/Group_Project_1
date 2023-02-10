@@ -1,0 +1,22 @@
+Group 2- United states Census data
+
+Members-Jason Dugger June Kimm William Brown Megan Goode
+
+Outline- Using the 2020-2023 Census data of the United states. Our group would like to find answers to questions regarding 
+population changes, economic changes, and people with health insurance.
+
+1. What 5 States have the highest population growth?
+
+2. What 5 States have the highest poverty rate?
+
+3. What 5 States have the highest population that has health care?
+
+4. What 5 States have the higest GDP growth for 2020-2023?
+
+Datasets:
+https://www.census.gov/data/developers/data-sets.html
+
+with Key: 9ff5c2355bb6e460d12de1feeff1968b00c71562
+
+
+
