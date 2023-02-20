@@ -1,0 +1,36 @@
+Final Analysis
+
+Though our findings are largely inconclusive in many ways, we did garner one takeaway: 
+Based on our findings and given the way we viewed the data, population growth in the US 
+doesn’t pose a negative impact from an economic standpoint. However, if we looked at the 
+data differently it may show varying results. We could, for instance, compare data based 
+on pure population density rather than on the broader state by state basis. Even in our 
+analysis we found that it played a role in how results were reflected. Another approach 
+that could affect the outcome would be to go farther and compare variables on a global 
+scale. Population growth is likely impacting other countries in a far more significant 
+way. The analysis by state approach we took is simultaneously broad and isolated. 
+
+Other questions for future research
+
+How does the US compare globally in population growth?
+How are the same variables impacted by population density?
+What is the environmental impact of population growth?
+What areas are experiencing population decline and what are the ramifications?
+
+Resources
+Python
+Libraries used:
+pandas
+matplotlib
+hvplot
+plotly.express
+plotly.graph_objects
+requests
+census
+scipy.stats
+
+APIs:
+api.census.gov
+api.openweathermap.org
+
+
